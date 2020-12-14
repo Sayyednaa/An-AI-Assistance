@@ -6,7 +6,7 @@ class Main_Code:
     def __init__(self,root):
         self.root=root
         self.root.geometry("1366x768")
-        self.root.title("AI Virtual Assistance | Developed By:Abdul Ali")
+        self.root.title("AI Virtual Assistance | Developed By:Sayyed Nawab Abdul Ali")
         Ressultpr=Label(self.root,text="I am Your Virtual Assistance?",bg="white",fg="green",font=("times new roman",20,"bold")).place(x=0,y=0,relwidth=1)
         Ressultpr=Label(self.root,text="What Do You Want To Do?",fg="red",bg="white",font=("times new roman",20,"bold")).place(x=0,y=39,relwidth=1)
 
