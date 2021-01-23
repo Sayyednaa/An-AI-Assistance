@@ -3,7 +3,7 @@
 https://www.wolframalpha.com/
 <h3> Until The Script Will Not Run And You Will Face Error </h3>
 <h5> Then run the command <h5>
-        pip3 install -e requirements.txt
-        
-        double click on Main.pyw
+                pip3 install -r requirements.txt
+                double click on Main.pyw
   
+       
